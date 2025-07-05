@@ -1,0 +1,15 @@
+{
+  "name": "gulp-publish-template",
+  "version": "1.0.0",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-beautify": "^3.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-file-include": "^2.3.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.69.0"
+  }
+}
