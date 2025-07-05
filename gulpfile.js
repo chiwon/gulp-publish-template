@@ -123,7 +123,7 @@ gulp.task('css:vendor', () => {
 // ────────────────────────────────
 // 이미지 복사
 gulp.task('images', () => {
-  return gulp.src(paths.img.src).pipe(gulp.dest(paths.img.dest));
+  return gulp.src(paths.img.src, { encoding: false }).pipe(gulp.dest(paths.img.dest));
 });
 
 // ────────────────────────────────
