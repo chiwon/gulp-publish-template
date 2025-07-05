@@ -31,7 +31,7 @@ src/
 │   ├── js/
 │   │   ├── main.js
 │   │   └── vendors/
-│   │       └── jquery.min.js
+│   │       └── swiper.min.js
 │   └── img/
 ```
 
