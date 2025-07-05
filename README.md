@@ -14,7 +14,7 @@
 
 ## 프로젝트 구조
 
-\`\`\`
+```
 src/
 ├── index.html
 ├── pages/
@@ -33,7 +33,7 @@ src/
 │   │   └── vendors/
 │   │       └── jquery.min.js
 │   └── img/
-\`\`\`
+```
 
 ## 사용법
 
